@@ -3,9 +3,8 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitanshu18&label=Profile%20views&color=0e75b6&style=flat" alt="gitanshu18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitanshu18" alt="gitanshu18" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitanshu18&label=Profile%20views&color=0e75b6&style=flat" alt="gitanshu18" /> </p>
 
 - 🔭 I’m currently working on [library management software](https://github.com/gitanshu18/libmanager)
 
