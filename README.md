@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
+[![MasterHead](https://github.com/Gitax18/Gitax18/blob/main/undraw_Portfolio_website_re_jsdd.png)]
 
 <h1 align="center">Hi 👋, I'm Gitanshu Sankhla</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
