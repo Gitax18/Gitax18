@@ -1,8 +1,8 @@
-[![MasterHead](https://github.com/Gitax18/Gitax18/blob/main/undraw_Portfolio_website_re_jsdd.png)]
+
 
 <h1 align="center">Hi 👋, I'm Gitanshu Sankhla</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="coding" width="400" src="[https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif](https://github.com/Gitax18/Gitax18/blob/main/undraw_Portfolio_website_re_jsdd.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitax18&label=Profile%20views&color=0e75b6&style=flat" alt="gitax18" /> </p>
 
