@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitax18&label=Profile%20views&color=0e75b6&style=flat" alt="gitax18" /> </p>
 
-- 🔭 I’m currently working on [library management software](https://github.com/gitanshu18/libmanager)
-
 - 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **HTML, CSS, Tailwind, Bootstrap, Python,and Mysql**
