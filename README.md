@@ -2,7 +2,12 @@
 
 <h1 align="center" color='#fff'>Hi 👋, I'm Gitanshu Sankhla</h1>
 <h3 align="center" color='#fff'>A passionate fullstack developer from India</h3>
+
+[![](https://visitcount.itsvg.in/api?id=Gitax18&icon=6&color=0)](https://visitcount.itsvg.in)
+
+
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Gitax18/Gitax18/main/undraw_Portfolio_website_re_jsdd.png">
+
 
 # 💫 About Me:
 🔭 I’m currently working on ReadMeAI<br>👯 I’m looking to collaborate on Web Apps Projects<br>🌱 I’m currently learning MongoDB <br>💬 Ask me about Node | Express | MySQL | JavaScript | HTML | CSS | Generative AI<br>
@@ -28,6 +33,5 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gitax18&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
